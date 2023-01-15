@@ -1,6 +1,6 @@
 [source,http,options="nowrap"]
 ----
-GET /api/v1/beer/c8a039a7-820e-4884-bd42-1d354f8b6072?iscold=yes HTTP/1.1
+GET /api/v1/beer/89367621-be6e-40a2-9fa6-814a36ba84d5?iscold=yes HTTP/1.1
 Accept: application/json
 Host: localhost:8080
 
