@@ -3,6 +3,6 @@
 |Parameter|Description
 
 |`+beerId+`
-|UUID of desired beer to get
+|UUID of desired beer to get.
 
 |===
